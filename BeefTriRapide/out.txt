@@ -1,0 +1,17 @@
+UTF8 ? 日本 éà
+
+Fichier de : 50000 éléments
+
+Test d'un tableau dynamique comme en C
+Time elapsed in millis : 4
+0, 0, 3, 3, 4, 4, 4, 6, 6, 6, 
+
+
+Test d'un tableau Beef
+Temps mis du tri du tab d'entier en ms : 10
+0, 0, 3, 3, 4, 4, 4, 6, 6, 6, 
+
+
+Test d'une liste d'entiers et la fonction sort qui est intégrée
+Time elapsed in millis : 7
+0, 0, 3, 3, 4, 4, 4, 6, 6, 6, 

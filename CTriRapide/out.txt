@@ -1,0 +1,17 @@
+UTF8 ? 日本 éà
+50000 éléments à trier
+
+tab de int
+Temps mis du tri du tab d'entier en ms : 5
+[ 0, 0, 3, 3, 4, 4, 4, 6, 6, 6 ...  ]
+515083 permutations
+---------------------------
+tab de string
+Time CPU: 17 ms
+[ 0, 0, 3, 3, 4, 4, 4, 6, 6, 6 ...  ]
+515083 permutations
+---------------------------
+tab de int et qsort du système
+Time CPU: 4 ms
+[ 0, 0, 3, 3, 4, 4, 4, 6, 6, 6 ...  ]
+Fin normale

@@ -1,0 +1,9 @@
+UTF8 ? 日本 éà
+Taille de a :50000
+Temps mis du tri du tab d'entier en ms : 5.
+afficheGen 10  50000
+[ 0, 0, 3, 3, 4, 4, 4, 6, 6, 6, ... ]
+
+Time quicksort fonctionnel in millis = 31.
+afficheGen 10  50000
+[ 0, 0, 3, 3, 4, 4, 4, 6, 6, 6, ... ]

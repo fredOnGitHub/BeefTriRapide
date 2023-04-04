@@ -1,0 +1,6 @@
+UTF8 ? 日本 éà
+Taille du tableau créé : 50000
+Tableau: [45754, 14018, 19426, 227, 2066, 32748, 48134, 39741, 13501, 26548]
+Temps mis du tri du tab d'entier en ms : 35
+Tableau: [0, 0, 3, 3, 4, 4, 4, 6, 6, 6]
+Nbre d'échange : 515083

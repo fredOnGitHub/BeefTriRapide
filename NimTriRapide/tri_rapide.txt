@@ -1,0 +1,22 @@
+................................................................................
+CC: readFile.nim
+Hint:  [Link]
+Hint: gc: refc; opt: none (DEBUG BUILD, `-d:release` generates faster code)
+44824 lines; 1.069s; 60.574MiB peakmem; proj: C:\Users\detro\Desktop\nim\readFile.nim; out: C:\Users\detro\Desktop\nim\readFile.exe [SuccessX]
+Hint: C:\Users\detro\Desktop\nim\readFile.exe  [Exec]
+Taille de a :50000
+Time quicksort fonctionnel = 0.270 s
+[9341, 42560, 22277, 2059, 18164, 40285, 26002, 26780, 44896, 36077, 14841, 31205, 11744, 37077, 21531, 44472, 20267, 11855, 27220, ...]
+Time quicksort à la main = 0.018 s
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 9, 10, 11, 13, 14, 14, 17, 18, 19, ...]
+PS C:\Users\detro\Desktop\nim> 
+
+2 temps d'exécution
+
+clear; nim c -r  tri_rapide.nim   =>    
+Time quicksort à la main = 0.018 s
+Time quicksort fonctionnel = 0.257 s
+
+clear; nim c -r -d:release  tri_rapide.nim   =>    
+Time quicksort à la main = 0.005 s 
+Time quicksort fonctionnel = 0.037 s

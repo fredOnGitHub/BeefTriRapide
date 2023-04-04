@@ -1,0 +1,8 @@
+---------------- TRI RAPIDE AVEC RUST ----------------
+Fichier dans le tableau ==> 0.056 sec
+Taille du tableau créé : 50000
+[ 45754 14018 19426 227 2066 32748 ... ]
+Tri avec la fonction manuelle ==> 0.347 sec
+[ 0 0 10 100 1000 10001 ... ]
+Nbre d'échange : 500047
+./main  0,40s user 0,01s system 82% cpu 0,500 total

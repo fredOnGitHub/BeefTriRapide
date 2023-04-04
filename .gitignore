@@ -1,0 +1,9 @@
+.vscode/
+__pycache__/
+*.exe
+*.class
+*.out
+*.toml
+*.cmi
+*.cmx
+*.obj

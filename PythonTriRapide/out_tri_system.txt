@@ -1,0 +1,11 @@
+Python version
+3.11.1 (tags/v3.11.1:a7a450f, Dec  6 2022, 19:58:39) [MSC v.1934 64 bit (AMD64)]
+Version info
+sys.version_info(major=3, minor=11, micro=1, releaselevel='final', serial=0)
+
+UTF8 ? 日本 éà
+
+Fonction 'sorted' du système
+Tri de ce tableau avec sorted en ms : 36
+Nombre de permutations : 0
+0 0 3 3 4 4 4 6 6 6

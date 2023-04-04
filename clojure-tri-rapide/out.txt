@@ -1,0 +1,11 @@
+quicksort_ :
+"Elapsed time: 380.118937 msecs"
+"Elapsed time: 0.00516 msecs"
+(0 0 3 3 4 4 4 6 6 6)
+Taille du vect : 50000
+
+quick-sort-2 :
+"Elapsed time: 15.606836 msecs"
+"Elapsed time: 530.014458 msecs"
+(0 0 3 3 4 4 4 6 6 6)
+Taille du vect : 50000

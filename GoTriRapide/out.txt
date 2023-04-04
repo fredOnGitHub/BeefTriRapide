@@ -1,0 +1,5 @@
+UTF8 ? 日本 éà
+
+Temps mis du tri du tab d'entier en ms : 3
+[0 0 3 3 4 4 4 6 6 6]
+NbEchange : 515083

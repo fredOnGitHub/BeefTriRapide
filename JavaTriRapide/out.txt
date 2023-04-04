@@ -1,0 +1,16 @@
+Byte.MAX_VALUE = 127
+Integer.MAX_VALUE = 2147483647
+Short.MAX_VALUE = 32767
+Integer.MAX_VALUE = 2147483647
+Long.MAX_VALUE = 9223372036854775807
+Float.MAX_VALUE = 3.4028235E38
+Double.MAX_VALUE = 1.7976931348623157E308
+
+UTF8 ? 日本 éà
+((Math.pow(2, 31) - 1) == Integer.MAX_VALUE) : true
+
+Tri avec des entiers signés sur 32 bits
+50000 lignes lues
+[ 45754, 14018, 19426, 227, 2066, 32748, 48134, 39741, 13501, 26548 , ... ]
+Temps mis du tri du tab d'entier en ms : 10
+[ 0, 0, 3, 3, 4, 4, 4, 6, 6, 6 , ... ]
